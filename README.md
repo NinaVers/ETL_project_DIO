@@ -8,3 +8,5 @@ Etapas para a resolução do projeto:
 3) Foram extraídos os dados dos usuários existentes: API + Planilha csv;
 4) Os dados foram transformados através de campanhas de marketing.
 5) Os dados atualizados foram carregados para a API.
+
+<img width="540" alt="image" src="https://github.com/NinaVers/ETL_project_DIO/assets/113388259/b19019af-717d-4d28-afa6-74f439a56d20">
