@@ -10,3 +10,6 @@ Etapas para a resolução do projeto:
 5) Os dados atualizados foram carregados para a API.
 
 <img width="540" alt="image" src="https://github.com/NinaVers/ETL_project_DIO/assets/113388259/b19019af-717d-4d28-afa6-74f439a56d20">
+
+<img width="750" alt="image" src="https://github.com/NinaVers/ETL_project_DIO/assets/113388259/109ab2ff-2e66-4d33-b522-0a633a1055e7">
+
